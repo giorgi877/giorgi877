@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @giorgi877
 - 👀 I’m interested in Electronics, Hardware engineering.
-- 🌱 I’m currently learning ... More electronics, more coding experience...
+- 🌱 I’m currently freelancer, CTO and co-founder at lomsa.
 - 💞️ I’m looking to collaborate on ... Very interesting projects based on IoT.
 - 📫 How to reach me ... Mail me(giorgiKurtanize@gmail.com)
 
